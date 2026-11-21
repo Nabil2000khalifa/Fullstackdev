@@ -1,3 +1,8 @@
+---
+name: fullstackdev
+description: Full-stack engineering skill for building, debugging, auditing, testing, securing, and maintaining production web applications. Use for frontend, backend, responsive design, business logic, security, QA, and project memory handoffs.
+---
+
 # fullstackdev
 
 Production-grade, technology-independent full-stack engineering operating system for AI coding agents.
